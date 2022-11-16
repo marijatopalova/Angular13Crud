@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruit",
+      "freshness": "BrandNew",
+      "price": 55,
+      "comment": "Honeycrisp apples ",
+      "date": "2022-11-03T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Strawberry",
+      "category": "Fruit",
+      "freshness": "SecondHand",
+      "price": 152,
+      "comment": "Fresh ",
+      "date": "2022-11-14T23:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
